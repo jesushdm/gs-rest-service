@@ -1,11 +1,11 @@
 package com.example.restservice;
 
-public class Greeting {
+public class Account {
 	private  long id;
 	private  String content;
 	
 	//constructor
-	public Greeting(long id, String content) {
+	public Account(long id, String content) {
 		this.id = id;
 		this.content = content;
 	}
